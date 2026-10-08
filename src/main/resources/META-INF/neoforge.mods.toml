@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="customfps"
+version="1.0.0"
+displayName="Custom FPS Limit"
+description='''Adiciona um botão nos menus para definir o limite de FPS com qualquer número (mínimo 1).'''
+
+[[dependencies.customfps]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.customfps]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="CLIENT"

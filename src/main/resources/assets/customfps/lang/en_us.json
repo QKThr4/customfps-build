@@ -1,0 +1,7 @@
+{
+  "gui.customfps.button": "FPS Limit",
+  "gui.customfps.title": "Custom FPS Limit",
+  "gui.customfps.hint": "Type any number, minimum 1. 260 or more = unlimited.",
+  "gui.customfps.apply": "Apply",
+  "gui.customfps.invalid": "Enter a number of 1 or more."
+}
